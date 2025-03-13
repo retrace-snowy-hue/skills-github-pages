@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+retrace-snowy-hue: Welcome to my blog
 ---
 
